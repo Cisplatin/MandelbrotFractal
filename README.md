@@ -1,14 +1,8 @@
 MandelbrotFractal
 =================
 
-To compile, run
+To compile and run the visualizer enter:
 
 ```
-javac Fractal.java
-```
-
-To run the visualizer, run
-
-```
-java Fractal.java
+javac Fractal.java; java Fractal
 ```
